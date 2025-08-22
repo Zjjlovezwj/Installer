@@ -1,0 +1,13 @@
+[Settings]
+AppId=[ProductName]
+URLInfoAbout=http://azteam.cn/
+HelpLink=http://azteam.cn/
+AppName=[ProductName]
+DisplayName=[ProductName]
+Publisher=AZ Studio
+DisplayVersion=1.0
+InstallLocation=[ProductName]
+UninstallString=[ProductName]\Uninstall.exe
+MainAppPath=[ProductName]\GTA5.exe
+UninstallPath=[ProductName]\Uninstall.exe
+EstimatedSize=1145
